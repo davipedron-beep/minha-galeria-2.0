@@ -21,10 +21,9 @@ margin-bottom : 30px; /*margem do titulo*/
 display : grid: ; /*Faz a tela ficar em 3x3*/
 
 grid-template-colmuns:
-repeat(auto-fit,minmax)
-;
+repeat(auto-fit,minmax(250px,1fr) );
 
-
+margin:auto; /*margem*/
 
 
 
