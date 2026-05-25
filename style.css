@@ -1,4 +1,33 @@
-.imagem{
-    /*largura*/
-    width: 250px;;
+body{
+    margin:0; /*remove a margem*/
+
+    background-color: rgb(35, 35, 194); /*muda a cor do fundo*/
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; /*Tipo da letra*/
+
 }
+
+h1{
+    text-align: center; */alinhamento do titulo*/
+margin-bottom : 30px; /*margem do titulo*/
+
+
+
+
+.imagem
+
+  
+
+display : grid: ; /*Faz a tela ficar em 3x3*/
+
+grid-template-colmuns:
+repeat(auto-fit,minmax)
+;
+
+
+
+
+
+
+}
+    
